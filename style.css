@@ -13,5 +13,11 @@ h1 {
 }
  */
 h1 {
-    color: red;
+    color: khaki;
+}
+.title {
+    background-color:orchid
+}
+#important {
+    color:olivedrab
 }
